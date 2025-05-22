@@ -1,1 +1,1 @@
-pp "A gambler eh? Guess the outcome: even or odd"
+puts "A gambler eh? Guess the outcome: even or odd"

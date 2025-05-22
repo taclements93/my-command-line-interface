@@ -1,1 +1,1 @@
-pp "Ah a responsible type eh? Fine then"
+puts "Ah a responsible type eh? Fine then"
